@@ -1,4 +1,4 @@
-baseURL = "http://alea12.net/"
+baseURL = "https://alea12.net/"
 languageCode = "ja-jp"
 title = "alea12.net"
 theme = "ananke"

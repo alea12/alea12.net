@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alea12.net/posts/my-first-post/</loc>
+    <loc>https://alea12.net/posts/my-first-post/</loc>
     <lastmod>2017-08-28T12:08:54+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alea12.net/categories/</loc>
+    <loc>https://alea12.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alea12.net/posts/</loc>
+    <loc>https://alea12.net/posts/</loc>
     <lastmod>2017-08-28T12:08:54+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alea12.net/tags/</loc>
+    <loc>https://alea12.net/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alea12.net/</loc>
+    <loc>https://alea12.net/</loc>
     <lastmod>2017-08-28T12:08:54+09:00</lastmod>
     <priority>0</priority>
   </url>

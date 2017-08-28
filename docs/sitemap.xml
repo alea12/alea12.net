@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alea12.net/categories/</loc>
+    <loc>http://alea12.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alea12.net/tags/</loc>
+    <loc>http://alea12.net/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alea12.net/</loc>
+    <loc>http://alea12.net/</loc>
     <priority>0</priority>
   </url>
   

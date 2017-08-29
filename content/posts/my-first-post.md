@@ -6,6 +6,8 @@ draft: false
 
 # Kimiyasu Morikawa
 
+![](/profile.jpg)
+
 ## Work History
 * **Current:** Chief Technology Officer at [FlyData K.K](http://www.flydata.com/ja/).
 * **Current:** Chief Development Officer at [Popinsight, Inc](https://popinsight.jp/).

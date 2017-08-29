@@ -9,7 +9,7 @@ draft: false
 ## Work History
 * **Current:** Chief Technology Officer at [FlyData K.K](http://www.flydata.com/ja/).
 * **Current:** Chief Development Officer at [Popinsight, Inc](https://popinsight.jp/).
-* Consultant at [Japan Research Institute (JRI)](https://www.jri.co.jp/).
+* Consultant at [Japan Research Institute (JRI)](https://www.jri.co.jp/english/).
 * Intern Engineer at [Lancers, Inc](https://www.lancers.co.jp/).
 * Assistant Proofreader at Kyodo News K.K.
 

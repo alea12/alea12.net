@@ -15,8 +15,8 @@ draft: false
 
 ## Education
 * [School of Political Science and Economics, Waseda University](https://www.waseda.jp/fpse/pse/en/) (2010-2014)
-  * Major: Global Political Economy
-  * Minor: Software Engineering
+    * Major: Global Political Economy
+    * Minor: Software Engineering
 
 ## Contacts
 * Twitter: [@alea12](https://twitter.com/alea12)
@@ -25,11 +25,21 @@ draft: false
 
 ## Profile
 * Date of Birth: 1991-04-12
-* Skills: Web development using Ruby (Rails, Sinatra) / PHP (CakePHP, CodeIgniter)
+* Skills
+    * Web development
+        * Ruby (Rails, Sinatra)
+        * PHP (CakePHP, CodeIgniter)
+    * DTP
+        * Illustrator
+        * Photoshop
+        * Lightroom
+        * InDesign
 * Editor: Vim
 * Language: Japanese, English (a bit)
-* Favorite: Urawa Red Diamonds
-* Weekends: Trekking Mountains
+* Weekends
+    * Yelling for Urawa Red Diamonds
+    * Trekking Mountains
+    * Shooting Photograph with DSLR (Olympus OM-D E-M1)
 
 ## Residence
 * Japan (Current)
